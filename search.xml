@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>司马懿</title>
+      <link href="/posts/c69b5b28.html"/>
+      <url>/posts/c69b5b28.html</url>
+      
+        <content type="html"><![CDATA[<!DOCTYPE html><html lang="zh-CN"><head><meta charset="UTF-8"><title>司马懿</title><style>body {    font-family: "SimSun", serif;    background-color: #f5f3f0;    color: #2b2b2b;    line-height: 1.8;    padding: 20px;}.section-box {    border: 2px solid #cfa46f;    border-radius: 8px;    padding: 15px;    margin-bottom: 20px;    background-color: #fff8f0;}h2 {    color: #8b4513;    margin-top: 30px;}p {    margin-bottom: 12px;}.dialogue {    font-family: "SimHei", monospace;    background-color: #fff0d6;    padding: 10px;    border-left: 4px solid #cfa46f;    margin: 8px 0;    white-space: pre-wrap;    word-break: break-word;}.highlight {    color: red;    cursor: pointer;    font-weight: bold;}.tooltip {    display: none;    position: absolute;    background-color: #fff3e6;    border: 1px solid #d4a373;    padding: 10px;    max-width: 400px;    z-index: 1000;    box-shadow: 0px 2px 8px rgba(0,0,0,0.2);    border-radius: 5px;}</style></head><body><h2>司马懿</h2><div class="section-box"><h3>初启</h3><p>那月亮又圆又亮，照在这宴席上，照着这即将血流成河的天下。</p ><p>你知道，今夜之后，这天下，将姓司马。</p ><p>而你自己，可能活不过天亮。</p ><p>（未经主持人许可，禁止翻看下一页）</p ></div><h2>第一幕：雨夜</h2><div id="script-content"><p>这个时候来见你，是来投诚？还是来谈判？</p ><div class="dialogue" data-text="“让她进来。”"></div><div class="dialogue" data-text="片刻后，一个身着青绿色襦裙的女子走进书房。四十岁的年纪，眼角已有细纹，但那双眼睛依然明亮——不是年轻女子的明亮，是洞察世事的、如秋水般的明亮。"></div><div class="dialogue" data-text="“太傅。”她微微欠身，不卑不亢。"></div><div class="dialogue" data-text="“辛夫人。”你示意她坐下，“深夜来访，所为何事？”"></div><div class="dialogue" data-text="她没有坐，而是从袖中取出一封信，放在你的书案上。"></div><div class="dialogue" data-text="“太傅请看。”"></div><div class="dialogue" data-text="你拿起信，展开。"></div><div class="dialogue" data-text="只看了一眼，你的瞳孔骤然紧缩。"></div><div class="dialogue" data-text="那是一份名单——七家士族大姓，联名支持曹爽的证据。其中三家，昨夜还派人来向你表忠。"></div><div class="dialogue" data-text="你的脸色变了。"></div><p>辛宪英静静看着你，嘴角噙着一丝若有若无的笑意。<span class="highlight" onclick="showTooltip(event)">辛宪英</span></p ><div class="dialogue" data-text="“太傅，您以为曹爽身边，只有您的卧底吗？”"></div><div class="dialogue" data-text="你抬起头，与她对视。"></div><div class="dialogue" data-text="书房中，烛火摇曳。两个人的影子投在墙上，像两棵纠缠的老树。"></div><div class="dialogue" data-text="你知道，今夜，这个女子不是来投诚的。她是来告诉你——这场棋局，不止你在落子。"></div><div class="dialogue" data-text="“你想要什么？”你问。"></div><div class="dialogue" data-text="辛宪英的回答，让你怔住。"></div><div class="dialogue" data-text="（未经主持人许可，禁止翻看下一页）"></div></div><div id="tooltip" class="tooltip">辛毗之女，羊耽之妻。名门才女，素以智谋著称。你与她从未深交，却在暗中关注她多年——因为你知道，这个女人不简单。她看透了曹爽必败，早早为家族铺好了退路。</div><script>// 逐字显示对话document.querySelectorAll('.dialogue').forEach(function(div){    let text = div.getAttribute('data-text');    div.textContent = '';    let index = 0;    let interval = setInterval(() => {        div.textContent += text[index];        index++;        if(index >= text.length){            clearInterval(interval);        }    }, 25); // 每字25ms，可快速显示});// 点击显示注释function showTooltip(event) {    const tooltip = document.getElementById('tooltip');    tooltip.style.display = 'block';    tooltip.style.left = event.pageX + 10 + 'px';    tooltip.style.top = event.pageY + 10 + 'px';}document.addEventListener('click', function(e) {    const tooltip = document.getElementById('tooltip');    if (!e.target.classList.contains('highlight')) {        tooltip.style.display = 'none';    }});</script></body></html>]]></content>
+      
+      
+      <categories>
+          
+          <category> 高平陵之变 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 司马懿 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>赵德芳</title>
       <link href="/posts/d692d611.html"/>
       <url>/posts/d692d611.html</url>

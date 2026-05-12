@@ -6,7 +6,7 @@
   <link href="https://www.starmiu.top/atom.xml" rel="self"/>
   
   <link href="https://www.starmiu.top/"/>
-  <updated>2026-05-12T10:25:49.678Z</updated>
+  <updated>2026-05-12T10:47:02.238Z</updated>
   <id>https://www.starmiu.top/</id>
   
   <author>
@@ -17,11 +17,43 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>司马懿</title>
+    <link href="https://www.starmiu.top/posts/c69b5b28.html"/>
+    <id>https://www.starmiu.top/posts/c69b5b28.html</id>
+    <published>2026-05-12T10:44:38.000Z</published>
+    <updated>2026-05-12T10:47:02.238Z</updated>
+    
+    <content type="html"><![CDATA[<!DOCTYPE html><html lang="zh-CN"><head><meta charset="UTF-8"><title>司马懿</title><style>body {    font-family: "SimSun", serif;    background-color: #f5f3f0;    color: #2b2b2b;    line-height: 1.8;    padding: 20px;}.section-box {    border: 2px solid #cfa46f;    border-radius: 8px;    padding: 15px;    margin-bottom: 20px;    background-color: #fff8f0;}h2 {    color: #8b4513;    margin-top: 30px;}p {    margin-bottom: 12px;}.dialogue {    font-family: "SimHei", monospace;    background-color: #fff0d6;    padding: 10px;    border-left: 4px solid #cfa46f;    margin: 8px 0;    white-space: pre-wrap;    word-break: break-word;}.highlight {    color: red;    cursor: pointer;    font-weight: bold;}.tooltip {    display: none;    position: absolute;    background-color: #fff3e6;    border: 1px solid #d4a373;    padding: 10px;    max-width: 400px;    z-index: 1000;    box-shadow: 0px 2px 8px rgba(0,0,0,0.2);    border-radius: 5px;}</style></head><body><h2>司马懿</h2><div class="section-box"><h3>初启</h3><p>那月亮又圆又亮，照在这宴席上，照着这即将血流成河的天下。</p ><p>你知道，今夜之后，这天下，将姓司马。</p ><p>而你自己，可能活不过天亮。</p ><p>（未经主持人许可，禁止翻看下一页）</p ></div><h2>第一幕：雨夜</h2><div id="script-content"><p>这个时候来见你，是来投诚？还是来谈判？</p ><div class="dialogue" data-text="“让她进来。”"></div><div class="dialogue" data-text="片刻后，一个身着青绿色襦裙的女子走进书房。四十岁的年纪，眼角已有细纹，但那双眼睛依然明亮——不是年轻女子的明亮，是洞察世事的、如秋水般的明亮。"></div><div class="dialogue" data-text="“太傅。”她微微欠身，不卑不亢。"></div><div class="dialogue" data-text="“辛夫人。”你示意她坐下，“深夜来访，所为何事？”"></div><div class="dialogue" data-text="她没有坐，而是从袖中取出一封信，放在你的书案上。"></div><div class="dialogue" data-text="“太傅请看。”"></div><div class="dialogue" data-text="你拿起信，展开。"></div><div class="dialogue" data-text="只看了一眼，你的瞳孔骤然紧缩。"></div><div class="dialogue" data-text="那是一份名单——七家士族大姓，联名支持曹爽的证据。其中三家，昨夜还派人来向你表忠。"></div><div class="dialogue" data-text="你的脸色变了。"></div><p>辛宪英静静看着你，嘴角噙着一丝若有若无的笑意。<span class="highlight" onclick="showTooltip(event)">辛宪英</span></p ><div class="dialogue" data-text="“太傅，您以为曹爽身边，只有您的卧底吗？”"></div><div class="dialogue" data-text="你抬起头，与她对视。"></div><div class="dialogue" data-text="书房中，烛火摇曳。两个人的影子投在墙上，像两棵纠缠的老树。"></div><div class="dialogue" data-text="你知道，今夜，这个女子不是来投诚的。她是来告诉你——这场棋局，不止你在落子。"></div><div class="dialogue" data-text="“你想要什么？”你问。"></div><div class="dialogue" data-text="辛宪英的回答，让你怔住。"></div><div class="dialogue" data-text="（未经主持人许可，禁止翻看下一页）"></div></div><div id="tooltip" class="tooltip">辛毗之女，羊耽之妻。名门才女，素以智谋著称。你与她从未深交，却在暗中关注她多年——因为你知道，这个女人不简单。她看透了曹爽必败，早早为家族铺好了退路。</div><script>// 逐字显示对话document.querySelectorAll('.dialogue').forEach(function(div){    let text = div.getAttribute('data-text');    div.textContent = '';    let index = 0;    let interval = setInterval(() => {        div.textContent += text[index];        index++;        if(index >= text.length){            clearInterval(interval);        }    }, 25); // 每字25ms，可快速显示});// 点击显示注释function showTooltip(event) {    const tooltip = document.getElementById('tooltip');    tooltip.style.display = 'block';    tooltip.style.left = event.pageX + 10 + 'px';    tooltip.style.top = event.pageY + 10 + 'px';}document.addEventListener('click', function(e) {    const tooltip = document.getElementById('tooltip');    if (!e.target.classList.contains('highlight')) {        tooltip.style.display = 'none';    }});</script></body></html>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;!DOCTYPE html&gt;
+&lt;html lang=&quot;zh-CN&quot;&gt;
+&lt;head&gt;
+&lt;meta charset=&quot;UTF-8&quot;&gt;
+&lt;title&gt;司马懿&lt;/title&gt;
+&lt;style&gt;
+body {
+    font-family: &quot;SimSun&quot;, serif;
+    ba</summary>
+      
+    
+    
+    
+    <category term="高平陵之变" scheme="https://www.starmiu.top/categories/%E9%AB%98%E5%B9%B3%E9%99%B5%E4%B9%8B%E5%8F%98/"/>
+    
+    
+    <category term="司马懿" scheme="https://www.starmiu.top/tags/%E5%8F%B8%E9%A9%AC%E6%87%BF/"/>
+    
+  </entry>
+  
+  <entry>
     <title>赵德芳</title>
     <link href="https://www.starmiu.top/posts/d692d611.html"/>
     <id>https://www.starmiu.top/posts/d692d611.html</id>
     <published>2026-05-12T10:15:38.000Z</published>
-    <updated>2026-05-12T10:25:49.678Z</updated>
+    <updated>2026-05-12T10:26:12.719Z</updated>
     
     <content type="html"><![CDATA[<html lang="zh-CN"><head><meta charset="UTF-8"><title>秦王赵德芳</title><style>body {    font-family: "SimSun", serif;    background-color: #f5f3f0;    color: #2b2b2b;    line-height: 1.8;    padding: 20px;}.section-box {    border: 2px solid #cfa46f;    border-radius: 8px;    padding: 15px;    margin-bottom: 20px;    background-color: #fff8f0;}h2 {    color: #8b4513;    margin-top: 30px;}p {    margin-bottom: 12px;}.choice-btn {    display: inline-block;    margin: 5px 10px;    padding: 8px 15px;    background-color: #cfa46f;    color: #fff;    border-radius: 5px;    cursor: pointer;}.choice-text {    display: none;    margin-top: 10px;    padding: 10px;    background-color: #fff0d6;    border-left: 4px solid #cfa46f;}</style></head><body><h2>秦王·赵德芳</h2><div class="section-box"><h3>身份与背景</h3><p>秦王赵德芳，宋太祖第四子，十八岁，封贵州防御使。年少温和，深得宋皇后疼爱，是皇后心中的皇位继承人。太祖暴毙后，未接到入宫传召，错失继位先机，最终只能接受赵光义继位的结果。</p ></div><div class="section-box"><h3>核心动机</h3><p>身为皇子，有皇位继承权，对叔叔赵光义抢先继位心存不满；怀疑父亲死因蹊跷，欲查明真相，为父报仇。此前已暗中掌握部分外围线索，但势单力薄，不敢轻易与赵光义对抗。</p ><p>剧本杀定位：悲情皇子，正义阵营，拥有皇位继承权，与赵光义有直接仇恨，可带动玩家梳理皇位争夺线、挖掘死因真相。</p ></div><h2>第一幕：寒庭悲声（秦王赵德芳篇）</h2><p>漫天大雪将秦王府的庭院覆得一片雪白，寒风穿过廊下，卷起碎雪，冷得人指尖发僵。你年仅十八岁，身为太祖皇帝第四子，虽封秦王、领贵州防御使，却因年少无实权，在这暗流涌动的皇宫朝堂里，始终如履薄冰。你性情温和纯善，自幼深得孝章宋皇后疼爱，与皇后亲近无间，也深知自己身为皇子，身负太祖血脉，本是皇位的合法继承人之一。</p ><p>入夜后，宫中传来的消息越发诡异，先是听闻父皇身体抱恙，却突然在大雪夜召晋王赵光义独自入宫，万岁殿内外尽数屏退宫人内侍，严禁任何人靠近。你坐在府中书房，心绪难平，案上的书卷一字也看不进去，心底的不安愈发浓烈。</p ><p>这些年，你看得分明，晋王叔父执掌京城军政大权，朝野上下党羽众多，野心早已昭然，而父皇对皇位传承之事始终摇摆不定，一边顾念金匮之盟，一边怜惜你与兄长德昭，这份犹豫，让朝中局势愈发紧张。</p ><p>你深知，若晋王叔父继位，你与兄长的处境定然凶险，而宋皇后也将失去倚靠。你虽年少，却也懂宫廷权谋的残酷，只是素来无势力支撑，只能隐忍。今夜父皇反常的举动，让你再也坐不住，悄悄换上素色便服，带着一名心腹亲信，趁着夜色大雪，隐秘赶往皇宫，只想探知父皇的安危。</p ><p>行至万岁殿外远处的宫巷，你不敢靠近，只能躲在积雪的宫墙之后，远远望着紧闭的殿门。殿内烛火摇曳，映出模糊的人影，殿外只有内侍都知王继恩独自值守，神色异样，时不时凑近窗棂偷听，全然不似平日的恭敬模样。你屏息观察，竟看到王继恩暗中遣身边小宦，趁着风雪往晋王府的方向疾驰，显然是在传递密信。</p ><p>一股寒意从心底蔓延开来，你越发觉得今夜之事蹊跷。殿内寂静无声，偶尔传来模糊的响动，却听不真切，你想上前质问，却深知自己势单力薄，贸然上前只会打草惊蛇，非但救不了父皇，反而引火烧身。你只能攥紧拳头，指甲深深嵌进掌心，强压着心底的慌乱与愤懑，眼睁睁看着殿外的一切，默默记下王继恩的反常举动，以及这深宫雪夜里，所有不对劲的蛛丝马迹。</p ><p>一股寒凉蔓延，你隐隐预感父皇今夜恐遭不测，这大宋的皇位，即将迎来一场翻天覆地的变故。你躲在宫墙之后，静静等候，满心都是对父皇安危的担忧，以及对晋王叔父、王继恩等人的疑虑，暗下决心，若有变故，定要查明真相，守护好宋皇后，守护住父皇留下的江山。</p ><h3>本章核心提示</h3><button class="choice-btn" onclick="toggleChoice('hint5')">点击查看本章核心提示</button><div id="hint5" class="choice-text">1. 你是宫外关键目击者，掌握王继恩暗中传信、晋王亲信往来的外围核心线索，开局可适度透露观察到的异动，逐步深挖真相。<br>2. 你势单力薄的处境、对宋皇后的亲近、对父皇死因的疑虑，是核心立场，全程站在正义阵营，与赵光义、王继恩形成对立。<br>3. 你身为皇子的继承权，是皇位争夺线的关键，切勿因年少怯懦隐藏自身诉求，可联合宋皇后梳理线索，推动推理进程。</div></body><script>function toggleChoice(id) {    const el = document.getElementById(id);    el.style.display = el.style.display === 'block' ? 'none' : 'block';}</script></html>]]></content>
     
@@ -42,7 +74,7 @@
     <link href="https://www.starmiu.top/posts/e8e9fcbb.html"/>
     <id>https://www.starmiu.top/posts/e8e9fcbb.html</id>
     <published>2026-05-12T10:15:23.000Z</published>
-    <updated>2026-05-12T10:24:17.635Z</updated>
+    <updated>2026-05-12T10:26:12.719Z</updated>
     
     <content type="html"><![CDATA[<html lang="zh-CN"><head><meta charset="UTF-8"><title>内侍都知王继恩</title><style>body {    font-family: "SimSun", serif;    background-color: #f5f3f0;    color: #2b2b2b;    line-height: 1.8;    padding: 20px;}.section-box {    border: 2px solid #cfa46f;    border-radius: 8px;    padding: 15px;    margin-bottom: 20px;    background-color: #fff8f0;}h2 {    color: #8b4513;    margin-top: 30px;}p {    margin-bottom: 12px;}.choice-btn {    display: inline-block;    margin: 5px 10px;    padding: 8px 15px;    background-color: #cfa46f;    color: #fff;    border-radius: 5px;    cursor: pointer;}.choice-text {    display: none;    margin-top: 10px;    padding: 10px;    background-color: #fff0d6;    border-left: 4px solid #cfa46f;}</style></head><body><h2>内侍都知·王继恩</h2><div class="section-box"><h3>身份与背景</h3><p>内侍都知王继恩，四十五岁，宋太祖贴身大宦官，宫中内侍总管。侍奉太祖多年，深谙宫廷权谋，看似忠心耿耿，实则暗中依附晋王赵光义。太祖驾崩后，违背宋皇后旨意，助力赵光义抢先入宫继位。</p ></div><div class="section-box"><h3>核心动机</h3><p>趋炎附势，早已投靠赵光义，妄图凭借拥立之功获得权势封赏；担心太祖传位皇子后，自己失去宫中权位。掌握宫中值守、宫门启闭的关键线索，是赵光义掌控局势的枢纽。暗中偷听殿内争执，为晋王传递消息，并协助掩盖太祖死因。</p ><p>剧本杀定位：关键帮凶嫌疑人，线索枢纽，连接赵光义与宋皇后，随时可能反水。</p ></div><h2>第一幕：宦影藏锋（王继恩篇）</h2><p>暴雪封宫，汴京城的夜色冷得刺骨，你身着深蓝色内侍官服，弓着身子守在万岁殿外的廊下，寒风灌进衣领，却丝毫不减你眼底的精明与谨慎。四十五岁的你，侍奉宋太祖赵匡胤已有二十余年，从底层小宦一步步爬到内侍都知的位置，执掌宫中内侍诸事，深谙宫廷生存的权谋之道，看似对陛下忠心不二，实则早已暗中站队，成为晋王赵光义安插在宫中的眼线。</p ><p>陛下今夜传下严旨，召晋王入宫密谈，命所有宫人、内侍尽数退离万岁殿百步之外，不许任何人靠近窥探，唯独留你在殿外近处值守，传应一应事务。你心中了然，陛下素来信任你，可这份信任，在你眼中远不及权势与前程重要。</p ><p>这些年，你亲眼看着晋王赵光义权势日盛，开封府尹兼晋王的身份，本就是朝野默认的储君，而陛下晚年对皇位传承摇摆不定，若是他日陛下改立皇子赵德昭、赵德芳，你这依附晋王的内侍，定然会落得身死权灭的下场。</p ><p>赌一把，拥立新君，才能换来泼天的富贵与权位，这是你早已打定的主意。此刻殿门紧闭，烛影摇红，将殿内兄弟二人的身影映在窗纸上，你屏气凝神，蹑手蹑脚地凑近窗棂，竖起耳朵偷听殿内的动静。起初只有杯盏相碰的轻响，兄弟二人的交谈声低沉模糊，听不真切，可没过片刻，语调陡然拔高，夹杂着压抑的怒斥与争辩，显然是起了激烈争执。你心头一紧，知道定是皇位传承之事谈崩了，陛下怕是要变卦，不愿传位给晋王。</p ><p>紧接着，你听见一阵沉闷的“笃笃”声，像是有人拿着柱斧戳击地面，随后便是陛下模糊的呼喊，那声音带着怒意与疲惫，听得你心惊肉跳。你不敢再凑近，连忙退回廊下，装作若无其事地拢了拢衣袖，眼底却飞速盘算着：殿内已然生变，陛下与晋王彻底撕破脸，今夜必定会有大事发生。</p ><p>你深知自己是宫中消息的关键枢纽，晋王能否掌控局势，全看你的动作。你不动声色地留意四周，确认没有其他宫人值守，暗中将殿内的异动记在心里，同时盘算着后续的退路：若是陛下安然无恙，你便依旧做忠心内侍；若是陛下有何不测，你必须第一时间奔赴晋王府报信，助晋王抢先入宫继位，绝不能给宋皇后召皇子入宫的机会。</p ><p>雪越下越大，落在你的肩头，积起薄薄一层白霜，你依旧垂首立在廊下，面色平静，唯有用袖口遮掩的指尖，微微颤抖。你清楚，这一夜是你人生最大的赌局，一步错，便是万劫不复，而你早已将所有筹码，压在晋王赵光义身上，只等殿内最终的结果，伺机而动。</p ><h3>本章核心提示</h3><button class="choice-btn" onclick="toggleChoice('hint4')">点击查看本章核心提示</button><div id="hint4" class="choice-text">1. 你是全程偷听殿内动静的核心知情人，掌握烛影斧声最完整的现场线索，开局切勿全盘托出，可选择性透露部分信息，拿捏各方筹码。<br>2. 你暗中投靠晋王、违背皇后旨意的秘密是致命把柄，需时刻隐藏，同时可利用手中线索要挟他人。<br>3. 你掌管宫中值守、宫门启闭的权力，是后续剧情中传递消息、控制动线的关键，牢记自己趋炎附势、谋求权位的核心动机。</div></body><script>function toggleChoice(id) {    const el = document.getElementById(id);    el.style.display = el.style.display === 'block' ? 'none' : 'block';}</script></html>]]></content>
     
@@ -63,7 +95,7 @@
     <link href="https://www.starmiu.top/posts/976f37c3.html"/>
     <id>https://www.starmiu.top/posts/976f37c3.html</id>
     <published>2026-05-12T10:14:55.000Z</published>
-    <updated>2026-05-12T10:24:44.020Z</updated>
+    <updated>2026-05-12T10:26:12.716Z</updated>
     
     <content type="html"><![CDATA[<html lang="zh-CN"><head><meta charset="UTF-8"><title>孝章宋皇后</title><style>body {    font-family: "SimSun", serif;    background-color: #f5f3f0;    color: #2b2b2b;    line-height: 1.8;    padding: 20px;}.section-box {    border: 2px solid #cfa46f;    border-radius: 8px;    padding: 15px;    margin-bottom: 20px;    background-color: #fff8f0;}h2 {    color: #8b4513;    margin-top: 30px;}p {    margin-bottom: 12px;}.highlight {    color: red;    cursor: pointer;    font-weight: bold;}.tooltip {    display: none;    position: absolute;    background-color: #fff3e6;    border: 1px solid #d4a373;    padding: 10px;    max-width: 400px;    z-index: 1000;    box-shadow: 0px 2px 8px rgba(0,0,0,0.2);    border-radius: 5px;}.choice-btn {    display: inline-block;    margin: 5px 10px;    padding: 8px 15px;    background-color: #cfa46f;    color: #fff;    border-radius: 5px;    cursor: pointer;}.choice-text {    display: none;    margin-top: 10px;    padding: 10px;    background-color: #fff0d6;    border-left: 4px solid #cfa46f;}</style></head><body><h2>孝章宋皇后</h2><div class="section-box"><h3>身份与背景</h3><p>孝章宋皇后，宋太祖正宫皇后，年龄二十四岁，出身名门，性情温婉，深谙宫廷生存之道。十七岁入宫册封为后，虽贵为大宋开国皇后，却无亲生子嗣，素来与太祖幼子秦王赵德芳亲近，将满心期许都寄托在这位温和纯善的皇子身上。</p ></div><div class="section-box"><h3>核心动机</h3><p>维护自身后宫地位，希望扶持与自己亲近的赵德芳登基，反对赵光义继位；对太祖暴毙心存疑虑，怀疑赵光义弑君。暗中藏有太祖生前未公开的手谕，内容关乎皇位传承。</p ><p>剧本杀定位：现场目击者、中立偏正义角色，掌握关键现场线索，与赵光义、王继恩形成直接对立。</p ></div><h2>第一幕：深宫雪寒（孝章宋皇后篇）</h2><p>深宫的寒夜被漫天大雪裹得密不透风，你身着素色锦袍，静立在万岁殿外的暖阁之中，指尖紧紧攥着一方丝帕，指节因用力而泛白。年仅二十四岁的你，出身名门望族，十七岁入宫册封为后，性情温婉却深谙宫廷生存之道，虽贵为大宋开国皇后，却无亲生子嗣，素来与太祖幼子秦王赵德芳亲近，将满心期许都寄托在这位温和纯善的皇子身上。</p ><p>殿门紧闭，烛火透过窗棂透出昏黄的光影，将殿内的动静隔得隐隐约约。你早已得知，陛下今夜传召晋王赵光义入宫，屏退了所有内侍宫人，只留兄弟二人在殿内饮酒密谈。望着漫天纷飞的白雪，你心头沉甸甸的，满是不安与忧虑。这些年，你看得分明，晋王赵光义执掌京畿大权，朝野上下党羽众多，野心早已昭然若揭，而陛下对皇位传承始终摇摆不定，一边念着<span class="highlight" onclick="showTooltip(event)">金匮之盟</span>欲传位皇弟，一边又怜惜两位皇子，这般犹豫，终究会酿成大祸。</p ><p>你深知，若赵光义继位，自己这后宫皇后之位定然形同虚设，素来亲近的德芳皇子，也再无出头之日，甚至会落得凶险境地。暖阁外寒风呼啸，你屏退了身边侍奉的宫女，独自守在殿外，不敢有丝毫懈怠。殿内一片寂静，唯有偶尔传来的杯盏碰撞声，可没过多久，那寂静被打破，你隐约听见殿内传来压低的争执声，语气急促，满是紧绷的对峙，心瞬间揪到了嗓子眼。</p ><p>你屏住呼吸，凑近窗棂，又听见一阵沉闷的声响，像是硬物戳击雪地的声音，紧接着，便是陛下模糊的呼喊，断断续续，听不真切，却让你浑身发冷，一股不祥的预感席卷全身。</p ><p>你想要推门而入，却又深知陛下明令禁止外人惊扰，更忌惮殿内赵光义的权势，若是贸然闯入，非但于事无补，反而引火烧身。你只能强压着心底的慌乱与恐惧，死死盯着那扇紧闭的殿门，手心早已被冷汗浸湿。你暗暗打定主意，若今夜陛下有任何不测，你一定要第一时间传召德芳入宫，绝不能让赵光义抢占先机。</p ><p>夜越来越深，雪势丝毫未减，殿内的动静渐渐平息，只剩下死寂。你站在暖阁中，浑身冰凉，脑海中反复回响着方才的争执与异响，你清楚，这一夜，注定要改变这深宫、这大宋的命运，而你，必须在这暗流涌动中，为自己、为德芳搏出一条生路。</p ><h3>本章核心提示</h3><button class="choice-btn" onclick="toggleChoice('hint3')">点击查看本章核心提示</button><div id="hint3" class="choice-text">1. 你是殿外最直接的目击者，切记不可轻易全盘托出听到的争执、柱斧声响等关键线索，需在后续推理中逐步披露。<br>2. 你暗中藏有太祖相关手谕的秘密，是自保与制衡赵光义的核心筹码，切勿过早暴露。<br>3. 你与赵德芳的亲近、对赵光义的戒备，是核心立场，也是后续与王继恩、赵光义产生冲突的关键，始终坚守扶持德芳、查明陛下死因的初衷。</div><div id="tooltip" class="tooltip">金匮之盟指史料所载宋朝杜太后（赵匡胤、赵光义的生母）病重，太祖赵匡胤在旁侍疾，临终时召赵普入宫记录遗言，交代未来的皇位继承问题，劝说太祖赵匡胤死后传位于其弟。这份遗书藏于金匮（匮，通柜）之中，因此名为“金匮之盟”。</div><script>function showTooltip(event) {    const tooltip = document.getElementById('tooltip');    tooltip.style.display = 'block';    tooltip.style.left = event.pageX + 10 + 'px';    tooltip.style.top = event.pageY + 10 + 'px';}document.addEventListener('click', function(e) {    const tooltip = document.getElementById('tooltip');    if (!e.target.classList.contains('highlight')) {        tooltip.style.display = 'none';    }});function toggleChoice(id) {    const el = document.getElementById(id);    el.style.display = el.style.display === 'block' ? 'none' : 'block';}</script></body></html>]]></content>
     
@@ -84,7 +116,7 @@
     <link href="https://www.starmiu.top/posts/2bea95f2.html"/>
     <id>https://www.starmiu.top/posts/2bea95f2.html</id>
     <published>2026-05-12T10:14:23.000Z</published>
-    <updated>2026-05-12T10:20:38.137Z</updated>
+    <updated>2026-05-12T10:26:12.719Z</updated>
     
     <content type="html"><![CDATA[<html lang="zh-CN"><head><meta charset="UTF-8"><title>晋王赵光义</title><style>body {    font-family: "SimSun", serif;    background-color: #f5f3f0;    color: #2b2b2b;    line-height: 1.8;    padding: 20px;}.section-box {    border: 2px solid #cfa46f;    border-radius: 8px;    padding: 15px;    margin-bottom: 20px;    background-color: #fff8f0;}h2 {    color: #8b4513;    margin-top: 30px;}p {    margin-bottom: 12px;}.highlight {    color: red;    cursor: pointer;    font-weight: bold;}.tooltip {    display: none;    position: absolute;    background-color: #fff3e6;    border: 1px solid #d4a373;    padding: 10px;    max-width: 400px;    z-index: 1000;    box-shadow: 0px 2px 8px rgba(0,0,0,0.2);    border-radius: 5px;}.choice-btn {    display: inline-block;    margin: 5px 10px;    padding: 8px 15px;    background-color: #cfa46f;    color: #fff;    border-radius: 5px;    cursor: pointer;}.choice-text {    display: none;    margin-top: 10px;    padding: 10px;    background-color: #fff0d6;    border-left: 4px solid #cfa46f;}</style></head><body><h2>晋王·赵光义</h2><div class="section-box"><h3>身份与背景</h3><p>晋王赵光义，太祖同母弟，开封府尹，北宋储君，三十八岁。自陈桥兵变以来长期执掌京城军政大权，羽翼渐丰。昭宪太后临终时的<span class="highlight" onclick="showTooltip(event)">金匮之盟</span>，为你成为继承人提供名义支持，但实际朝野权力斗争复杂，你暗中筹划自己的储君之位，同时警惕太祖摇摆传位与皇子可能的影响。</p ></div><div class="section-box"><h3>核心动机</h3><p>觊觎皇位，担心太祖临时改变传位心意，改立皇子，急于掌控皇权；忌惮太祖皇子成年后分权，欲彻底坐稳皇位。你知晓金匮之盟真伪存疑，暗中勾结宦官王继恩把控宫中消息；当夜与太祖发生激烈争执，并非单纯饮酒叙旧；有动机对太祖下手，且有掩盖现场、伪造遗诏的嫌疑。</p ><p>剧本杀定位：核心嫌疑人，主线C位，背负弑君嫌疑，与其他四人皆有利益冲突。</p ></div><h2>第一幕：雪夜谋权（晋王赵光义篇）</h2><p>寒风裹着暴雪砸在晋王府的朱红门扉上，发出沉闷的声响，你正坐在书房内，指尖摩挲着案上开封府的兵符，眼底翻涌着按捺不住的野心。三十八岁的你，身为太祖同母弟，自陈桥兵变便追随兄长登基，多年来执掌开封府军政大权，亲王兼京尹的身份，早已让你成为朝野默认的储君，这大宋的万里江山，你觊觎已久，也谋划已久。</p ><p>书房内烛火昏暗，心腹宦官王继恩方才派人传来密信，言太祖今夜身体不适，却突然传旨召你即刻入宫。你捏着密信的指尖微微收紧，心中警铃大作。这些年，你借着昭宪太后<span class="highlight" onclick="showTooltip(event)">金匮之盟</span>的由头，步步为营，笼络朝臣、培植亲信，宫中大小事宜皆有王继恩为你传递消息，可你也清楚，兄长赵匡胤并非昏聩之君，他虽念及兄弟情分与太后遗命，却始终对皇子赵德昭、赵德芳心存怜惜，皇位传承之心向来摇摆。</p ><p>近来你察觉，太祖对你的权势扩张日渐忌惮，甚至暗中留意你与后宫花蕊夫人的往来，今夜突如其来的传召，绝不可能是寻常的兄弟叙旧，更像是一场暗藏锋芒的试探，甚至是一场要削夺你权位、改立皇子的鸿门宴。你起身披上玄色锦袍，寒意从衣摆渗入，却抵不过心底的焦灼与狠绝——你绝不能失去唾手可得的皇位，更不能让多年的谋划付诸东流。</p ><p>车马行在积雪覆盖的宫道上，雪花迷眼，你望着远处万岁殿隐约的灯火，心绪翻涌。昭宪太后的<span class="highlight" onclick="showTooltip(event)">金匮之盟</span>，是你最大的依仗，可你也心知，这盟约并无公开凭证，一旦太祖改口，你的储君之位瞬间化为泡影。宋皇后偏心幼子赵德芳，朝中老臣也有不少心系皇子，若今夜太祖定下传位皇子的遗命，你再无翻身可能。</p ><p>行至万岁殿外，传旨宦官早已等候，你按捺住心底的波澜，整理衣袍踏入殿内。殿内暖意融融，却弥漫着一股压抑的气息，太祖屏退了所有宫人内侍，偌大的宫殿里，只有他端坐于案前，烛火摇曳，映得他面色沉郁，案上摆着温好的酒壶与两只酒杯，分明是早已等候多时。</p ><p>你抬眼看向兄长，躬身行礼，姿态恭敬，眼底却藏着不易察觉的戒备与算计。你知道，今夜这殿内只有你与太祖二人，没有君臣，没有兄弟，只有一场关乎皇权归属的博弈。烛影晃动，将你的身影投在殿壁上，你缓步走向案前，心中已然打定主意：无论太祖今夜所言为何，你都要牢牢握住主动权，这大宋的皇位，非你莫属。</p ><p>你在案旁落座，看着太祖端起酒杯，殿外风雪更急，殿内的沉默压得人喘不过气，一场暗藏杀机的对饮，就此拉开序幕。</p ><h3>本章核心提示</h3><button class="choice-btn" onclick="toggleChoice('hint2')">点击查看本章核心提示</button><div id="hint2" class="choice-text">1. 牢记你当夜的核心目的：应对太祖的试探，阻止太祖改立皇子，守住皇位继承权，切勿轻易暴露你勾结王继恩、暗中结党的秘密。<br>2. 你对金匮之盟的底气、对太祖摇摆的忌惮，是核心动机，也是后续与其他人物冲突的关键。<br>3. 你与太祖的对话、席间的异动，将成为本案核心线索，需在后续剧情中谨慎应对他人的质疑。</div><div id="tooltip" class="tooltip">金匮之盟指史料所载宋朝杜太后（赵匡胤、赵光义的生母）病重，太祖赵匡胤在旁侍疾，临终时召赵普入宫记录遗言，交代未来的皇位继承问题，劝说太祖赵匡胤死后传位于其弟。这份遗书藏于金匮（匮，通柜）之中，因此名为“金匮之盟”。</div><script>function showTooltip(event) {    const tooltip = document.getElementById('tooltip');    tooltip.style.display = 'block';    tooltip.style.left = event.pageX + 10 + 'px';    tooltip.style.top = event.pageY + 10 + 'px';}document.addEventListener('click', function(e) {    const tooltip = document.getElementById('tooltip');    if (!e.target.classList.contains('highlight')) {        tooltip.style.display = 'none';    }});function toggleChoice(id) {    const el = document.getElementById(id);    el.style.display = el.style.display === 'block' ? 'none' : 'block';}</script></body></html>]]></content>
     
@@ -393,25 +425,6 @@
     
     
     <summary type="html">楚怀王（第二幕）</summary>
-    
-    
-    
-    
-    <category term="楚怀王" scheme="https://www.starmiu.top/tags/%E6%A5%9A%E6%80%80%E7%8E%8B/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>楚怀王（第三幕）</title>
-    <link href="https://www.starmiu.top/posts/6274dd1e.html"/>
-    <id>https://www.starmiu.top/posts/6274dd1e.html</id>
-    <published>2025-05-13T12:00:23.000Z</published>
-    <updated>2026-05-12T09:33:01.838Z</updated>
-    
-    <content type="html"><![CDATA[<p>第三幕 约定<br>经过五天紧张调查，你查清了卫贤的死因，但并未立刻公布。这几日，你一直在权衡利弊，思索如何处理案件，以及在与秦国的博弈中为楚国争取最大利益。<br>这日，你派人给张仪送去财宝表示歉意，并告知他明日进宫召见。<br>第二天，阳光洒在楚国王宫殿宇上，却驱散不了你心头的阴霾。张仪昂首挺胸走进宫殿，行礼后等待你的决定。你看着他，微微点头，缓缓说道：“先生，本王经过深思熟虑，决定同意你的请求，楚国愿意与齐国断交，与秦国交好。”张仪听闻，心中大喜，连忙说道：“大王英明！秦楚交好，必能共创辉煌，楚国从此高枕无忧。”<br>为庆祝这一“重大决定”，你在宫中设宴。宴会上歌舞升平，大臣们纷纷向你敬酒祝贺，夸赞你的决策英明。你举杯，脸上却没有太多喜悦，说道：“今日与诸位爱卿同饮，待楚国得到秦国的六百里土地，咱们楚国必将更加强盛！<br>众人欢庆时，陈轸突然站了起来。他看着你，满脸焦急地说：“大王，您万万不可啊！张仪阴险狡诈，咱们不能再相信他了，否则楚国必将大祸临头！秦国向来言而无信，此次割地之事定是圈套。楚国若与齐国断交，失去盟友，孤立无援，秦国必定会趁机攻打楚国。大王，您一定要三思啊！”<br>你心中本就烦躁，听到陈轸这番话，顿时怒从心头起，愤怒地拍着桌子，大声呵斥道：“陈轸，你屡次阻挠本王，是何居心？本王心意已决，你若再敢多言，休怪本王不客气！”陈轸无奈地看着你，长叹一声，灰溜溜地退下了。<br>宴会结束后，你派使者跟随张仪去秦国取地。使者满怀期待地跟着张仪来到秦国。<br>然而，当他们向张仪索要土地时，张仪却翻脸不认人，只愿给六里封地。使者大惊失色，愤怒地说：“先生，当初你明明承诺给楚国六百里土地，如今为何只有六里？你这是公然欺骗我楚国！”<br>张仪却一脸无赖地说：“我说的一直都是六里，从未说过六百里，是你们听错了吧。”<br>使者无奈，只得返回楚国，将情况如实告知你。你听完，气得浑身发抖，怒不可遏地吼道：“好你个张仪，竟敢戏耍本王！本王定要让你付出代价！”此时，你又得知秦国已与齐国建交，心中更是怒火中烧。咽不下这口气的你，决定派屈匄出兵攻打秦国。<br>屈匄是楚国猛将，他率领大军气势汹汹向秦国进发。然而，他没想到秦国早已与齐国商议好夹击楚国。楚军进入秦军和齐军的包围圈后，顿时陷入苦战。<br>秦军和齐军两面夹击，楚军渐渐不敌，战场上喊杀声、惨叫声交织。最终，楚军大败，屈匄战死沙场，丹阳、汉中的土地也被秦国夺走。<br>你不甘心失败，调集更多军队再次袭击秦国。这一次，楚军在蓝田与秦军展开激烈战斗。<br>但因之前战败，楚军士气低落，而秦军士气高昂。经过一番苦战，楚军再次惨败，无奈之下，楚国只能割让两座城池与秦国求和。<br>楚国在这两场战争中元气大伤，国力急剧衰退。百姓生活在水深火热之中，无数家庭失去亲人，田园荒芜，民不聊生。此时，秦王又来索要黔中之地，提出用武关以外的土地交换。你恨透了张仪，咬牙切齿地说：“告诉秦王，本王别的不要，只要张仪！把张仪送来，本王就交出黔中之地！”<br>不久后，张仪再次来到楚国。你得知消息后，立刻下令将他囚禁起来。看着被押解到面前的张仪，你愤怒地说：“张仪，你屡次欺骗本王，害得楚国损兵折将、割地求和，百姓受苦受难，今日你还有何话说？本王定要杀了你，以泄心头之恨！”<br>此时的你，面临着楚国历史上的重大危机。<br>楚国军事惨败、国土沦陷、国力衰退。你必须思考楚国在这艰难处境下的应对策略，努力恢复国力，避免被秦国进一步蚕食。同时，你也在犹豫是否真的要杀张仪。<br>杀了张仪，固然能解心头之恨，但秦国必定以此为借口再次攻打楚国；不杀张仪，又难以平息楚国上下的愤怒，也无法向百姓交代。此外，你还想利用张仪在楚国的机会，从他口中套取秦国情报，为楚国争取有利条件。<br>在这复杂的局势面前，你陷入了两难的抉择，不知道楚国的未来将走向何方，只能在重重困境中艰难地寻找出路。<br>（未经主持人允许，禁止翻看下一页）</p><p>本阶段你的任务：<br>权衡是否真的要杀张仪，考虑杀张仪后秦国的反应以及对楚国局势的影响。做出你的选择。</p>]]></content>
-    
-    
-    <summary type="html">楚怀王（第三幕）</summary>
     
     
     
