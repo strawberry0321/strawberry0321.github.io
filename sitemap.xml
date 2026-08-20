@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.starmiu.top/life/games/snake/index.html</loc>
+    
+    <lastmod>2026-08-20</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.starmiu.top/life/games/index.html</loc>
+    
+    <lastmod>2026-08-20</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.starmiu.top/social/fcircle/index.html</loc>
     
     <lastmod>2026-08-20</lastmod>
@@ -470,7 +488,7 @@
   </url>
   
   <url>
-    <loc>https://www.starmiu.top/box/animation/index.html</loc>
+    <loc>https://www.starmiu.top/tags/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -479,7 +497,7 @@
   </url>
   
   <url>
-    <loc>https://www.starmiu.top/tags/index.html</loc>
+    <loc>https://www.starmiu.top/box/animation/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -498,15 +516,6 @@
   
   <url>
     <loc>https://www.starmiu.top/box/nav/index.html</loc>
-    
-    <lastmod>2023-03-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.starmiu.top/life/games/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -628,14 +637,14 @@
   </url>
   
   <url>
-    <loc>https://www.starmiu.top/tags/%E6%9B%B9%E8%8A%B3/</loc>
+    <loc>https://www.starmiu.top/tags/%E6%9B%B9%E7%88%BD/</loc>
     <lastmod>2026-08-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://www.starmiu.top/tags/%E6%9B%B9%E7%88%BD/</loc>
+    <loc>https://www.starmiu.top/tags/%E6%9B%B9%E8%8A%B3/</loc>
     <lastmod>2026-08-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -684,14 +693,14 @@
   </url>
   
   <url>
-    <loc>https://www.starmiu.top/tags/%E8%B5%B5%E5%BE%B7%E8%8A%B3/</loc>
+    <loc>https://www.starmiu.top/tags/%E8%BE%9B%E5%AE%AA%E8%8B%B1/</loc>
     <lastmod>2026-08-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://www.starmiu.top/tags/%E8%BE%9B%E5%AE%AA%E8%8B%B1/</loc>
+    <loc>https://www.starmiu.top/tags/%E8%B5%B5%E5%BE%B7%E8%8A%B3/</loc>
     <lastmod>2026-08-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
